@@ -1,0 +1,9 @@
+# Media files stay local — too big for git
+clips/**/*
+!clips/**/.gitkeep
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.psd
+.DS_Store
